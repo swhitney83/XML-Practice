@@ -1,0 +1,16 @@
+<page>
+  <author>Sara</author>
+  <title>Ask Susie</title>
+  <abstract>Ask Susie is our internal "Google" that is our knowledgebase. It holds all our policies and procedures.</abstract>
+  <body>
+    <paragraph>I manage Ask Susie.</paragraph>
+    <paragraph>One downside of Ask Susie is that there is no notes section like in Github (or Wikipedia). We have to save different versions to document the edits over time.</paragraph>
+  </body>
+</page>
+<people>
+  <person>
+    <age>30</age>
+    <sex>Female</sex>
+    <name preferred="Susie">Susan</name>
+  </person>
+</people>
