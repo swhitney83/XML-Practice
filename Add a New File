@@ -14,3 +14,15 @@
     <name preferred="Susie">Susan</name>
   </person>
 </people>
+
+<note>
+  <date>
+    <year>2019</year>
+    <month>02</month>
+    <day>28</day>
+  </date>
+  <to>Rob</to>
+  <from>Sara</from>
+  <heading>Reminder</heading>
+  <body>Remember to update the Calednar!</body>
+</note> 
